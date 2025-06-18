@@ -36,14 +36,23 @@ A Power BI visual that applies the Pareto Principle to help identify the product
 
 ---
 
-### 2. Insurance Dashboard  
+### 2. PropTech Dashboard  
+An end-to-end data analytics project featuring interactive dashboards that track key transaction metrics—including number of transactions, average sales value, and days on market—as well as channel engagement metrics like active users, session duration, and funnel analysis.
+
+![Real Estate Dashboard](visualization-works/pbi-property-1.png)
+
+![Real Estate Dashboard](visualization-works/pbi-property-2.png)
+
+---
+
+### 3. Insurance Dashboard  
 Interactive dashboard focused on claims, policies, and customer segmentation. It helps stakeholders assess risk profiles, claim trends, and operational KPIs.
 
 ![Insurance Dashboard](visualization-works/pbi-insurance.png)
 
 ---
 
-### 3. Telecom Usage Monitoring Dashboard  
+### 4. Telecom Usage Monitoring Dashboard  
 Tracks customer usage behavior across voice, SMS, and data plans. Built to support churn analysis, plan optimization, and usage trend reporting.
 
 ![Telecom Usage Dashboard](visualization-works/pbi-usage.png)
